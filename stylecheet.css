@@ -116,7 +116,7 @@ header{
     color: #000;
     cursor: pointer;
 }
-.image2 img{
+.image-two img{
     width: 280px;
     height: auto;
     margin-top: 5px;
@@ -134,14 +134,14 @@ header{
     color: #fff;
     text-align: center;
 }
-.formulario form {
+.form-sign-up form {
     display: flex;
     flex-direction: column;
 
     width: 400px;
     height: 200px;
 }
-.formulario input{
+.form-sign-up input{
     margin-top: 20px;
     padding-left: 10px;
     height: 40px;
@@ -169,11 +169,12 @@ footer{
     margin-top: 100px;
     margin-bottom: 100px;
 }
-.redes-sociais h3{ 
+.social-networks h3{ 
     color: #fff;
     font-weight: normal;
+    text-align: center;
 }
-.redes-sociais img{
+.social-networks img{
     width: 35px;
     margin-left: 15px;
 }
