@@ -24,3 +24,8 @@
  1. Download the files for your machine;
  2. extract the files;
  3. Double click on the "index.html" file and it will be click on your default browser.
+
+## Landing page demo
+<figure>
+  <img src="images/to_readme/github_gif.gif" alt="">
+</figure>
