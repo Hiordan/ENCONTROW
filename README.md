@@ -2,7 +2,7 @@
 
 > Status: Concluded ✔️
 
-### It's a landing page designed to demonstrate my knowledge with HTML and CSS.  Developed from a video from Jefferson Cavalcante's channel where the design and creation process was presented. I took your design as a basis and built my own page.
+### It's a landing page designed to demonstrate my knowledge with HTML and CSS.
 
 ## Technologies used:
 <table>
